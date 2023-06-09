@@ -139,4 +139,4 @@ FROM
 
 ## PowerBi Report
 
-![Report]([SQL_PROJECTS.pdf](https://github.com/nahidislamz/SQL-and-PowerBi-Data-Visualisation-on-Sales-Data/blob/main/SQL_PROJECTS.pdf))
+![Report](SQL_PROJECTS.pdf)
