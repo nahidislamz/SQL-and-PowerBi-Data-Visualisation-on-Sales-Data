@@ -1,4 +1,22 @@
 # SQL-and-PowerBi-Data-Visualisation-on-Sales-Data
+
+## Objectives
+
+Stock Control Requirements
+Our client, a pizza shop, wants to implement a stock control system to efficiently manage their inventory and ensure timely reordering of ingredients. To fulfill this requirement, we need to gather the following information:
+
+- Ingredients for Each Pizza: Identify the list of ingredients required for each type of pizza offered by the shop. This includes toppings, sauces, dough, cheese, and any other components specific to each pizza.
+
+- Quantity Based on Pizza Size: Determine the quantity of each ingredient needed for different pizza sizes. For example, a small pizza may require fewer toppings compared to a large pizza. Define the ingredient quantities for each size option.
+
+- Existing Stock Level: Determine the current stock levels of each ingredient. This includes tracking the quantity of each ingredient available in the shop's inventory.
+
+By considering these factors, we can develop a stock control system that will notify the pizza shop when it's time to reorder specific ingredients based on their consumption rates, taking into account the lead time required for supplier deliveries.
+
+Implementing an effective stock control system will help the pizza shop maintain optimal inventory levels, minimize the risk of running out of ingredients, and ensure smooth operations.
+
+
+
 ### SQL Query
 
 #### Query-1
@@ -138,5 +156,60 @@ FROM
 ```
 
 ## PowerBi Report
+
+### Dashboard 1 - Order Activity
+
+To fulfill the requirements for the Order Activity dashboard, we will create a visual representation of the following data:
+
+- Total Orders: Display the total number of orders placed within a specific time period. This provides an overview of the order volume.
+
+- Total Sales: Show the total sales generated from all the orders placed within a specific time period. This metric helps assess the overall revenue.
+
+- Total Items: Present the total count of items sold across all orders. This provides insights into the volume of products sold.
+
+- Average Order Value: Calculate the average value of each order by dividing the total sales by the total number of orders. This metric helps understand the typical spending of customers.
+
+- Sales by Category: Visualize the sales distribution across different categories of items. This allows identification of popular categories and their contribution to overall sales.
+
+- Top Selling Items: Display the top-selling items based on the quantity sold or revenue generated. This helps identify the most popular and profitable products.
+
+- Orders by Hour: Present a chart or graph showing the distribution of orders by hour throughout the day. This highlights peak ordering periods or any notable trends.
+
+- Sales by Hour: Show the sales volume or revenue generated for each hour of the day. This provides insights into the sales patterns throughout the day.
+
+- Orders by Address: Display a map or table visualizing the distribution of orders by address or geographical location. This helps identify areas with high order activity or customer density.
+
+### Outcome
+- *By incorporating these visualizations into the Order Activity dashboard, the pizza shop can gain valuable insights into their order volume, sales performance, popular items, and customer behavior. These insights can inform decision-making processes and assist in improving operational efficiency and customer satisfaction.*
+
+### Dashboard 2 - Inventory Management
+
+To meet the requirements for the Inventory Management dashboard, we will develop visualizations that provide the following data:
+
+- Total Quantity by Ingredient: Display the total quantity of each ingredient in the inventory. This helps monitor the availability of ingredients and identify any shortages or excesses.
+
+- Total Cost of Ingredients: Show the total cost of all the ingredients in the inventory. This metric provides an overview of the investment tied up in the inventory.
+
+- Calculated Cost of Pizza: Calculate the cost of making each pizza based on the cost of the ingredients used. This metric helps monitor the profitability of each pizza and identify pricing strategies.
+
+- Percentage Stock Remaining by Ingredient: Visualize the percentage of stock remaining for each ingredient in the inventory. This allows quick identification of ingredients that are running low and need to be reordered
+
+### Outcome
+- *By incorporating these visualizations into the Inventory Management dashboard, the pizza shop can efficiently manage their inventory levels, monitor ingredient costs, and ensure the availability of ingredients for pizza production. These insights can help optimize inventory management, control costs, and maximize profitability.*
+
+### Dashboard 3 - Staff Management
+
+To fulfill the requirements for the Staff Management dashboard, we will create visualizations that provide the following data:
+
+- Total Staff Cost: Display the total cost of staff wages or salaries for a given period. This metric provides an overview of the overall labor expenses.
+
+- Total Hours Worked: Show the total number of hours worked by all staff members for a given period. This provides insights into the overall staff workload.
+
+- Hours Worked by Staff Member: Visualize the hours worked by each staff member for a given period. This allows monitoring of individual staff members' contributions and helps identify any imbalances or discrepancies.
+
+- Cost per Staff Member: Display the cost incurred for each staff member individually. This metric helps assess the cost-effectiveness of each staff member and identify areas for potential improvement.
+
+### Outcome
+*By incorporating these visualizations into the Staff Management dashboard, the pizza shop can monitor staff costs, analyze labor efficiency, and ensure proper allocation of resources. These insights can contribute to effective staff management, optimize scheduling, and support decision-making processes related to staffing and cost control.*
 
 [Report](SQL_PROJECTS.pdf)
