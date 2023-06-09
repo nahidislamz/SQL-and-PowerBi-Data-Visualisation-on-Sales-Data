@@ -139,4 +139,4 @@ FROM
 
 ## PowerBi Report
 
-![Report]('SQL_PROJECTS.pdf')
+![Report](SQL_PROJECTS.pdf)
