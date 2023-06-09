@@ -1,4 +1,4 @@
-# SQL-and-PowerBi-Data-Visualisation-on-Sales-Data
+# Integrated Pizza Shop Management System: Sales Analysis, Inventory Control, and Staff Monitoring
 
 ## Objectives
 
