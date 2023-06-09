@@ -136,3 +136,7 @@ FROM
     LEFT JOIN shift sh ON r.shift_id = sh.shift_id;
 
 ```
+
+## PowerBi Report
+
+![Report]('SQL_PROJECTS.pdf')
