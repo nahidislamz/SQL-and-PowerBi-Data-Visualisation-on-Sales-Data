@@ -200,7 +200,7 @@ To meet the requirements for the Inventory Management dashboard, we will develop
 ### Outcome
 - *By incorporating these visualizations into the Inventory Management dashboard, the pizza shop can efficiently manage their inventory levels, monitor ingredient costs, and ensure the availability of ingredients for pizza production. These insights can help optimize inventory management, control costs, and maximize profitability.*
 
-![Dashboard 1 Image](Dashboard_1.png)
+![Dashboard 1 Image](Dashboard_2.png)
 
 ### Dashboard 3 - Staff Management
 
@@ -217,6 +217,6 @@ To fulfill the requirements for the Staff Management dashboard, we will create v
 ### Outcome
 *By incorporating these visualizations into the Staff Management dashboard, the pizza shop can monitor staff costs, analyze labor efficiency, and ensure proper allocation of resources. These insights can contribute to effective staff management, optimize scheduling, and support decision-making processes related to staffing and cost control.*
 
-![Dashboard 1 Image](Dashboard_1.png)
+![Dashboard 1 Image](Dashboard_3.png)
 
 [Report](SQL_PROJECTS.pdf)
